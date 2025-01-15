@@ -1,8 +1,8 @@
 <div align="center">
 
-  <h1><code>Game Of Life tutorial with Rust & Wasm</code></h1>
+  <h1><code>Rust ❤️ Wasm</code></h1>
 
-<strong>A template for kick starting a Rust and WebAssembly project using <a href="https://github.com/rustwasm/wasm-pack">wasm-pack</a>.</strong>
+<strong>Game Of Life tutorial built with Rust & WebAssembly.</strong>
 
   <h3>
     <a href="https://rustwasm.github.io/docs/wasm-pack/tutorials/npm-browser-packages/index.html">Tutorial</a>
